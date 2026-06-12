@@ -1,300 +1,133 @@
 #EXTM3U
 
-#=== BANGLA NEWS ===
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla News",Somoy TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla News",Jamuna TV
+#=== 01. BANGLA NEWS ===
+#EXTINF:-1 group-title="01. Bangla News",Somoy News TV
+https://bozztv.com/rongo/rongo-somoy/index.m3u8
+#EXTINF:-1 group-title="01. Bangla News",Jamuna TV
 https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8
+#EXTINF:-1 group-title="01. Bangla News",ATN News
+https://bozztv.com/rongo/rongo-ATNNews/index.m3u8
+#EXTINF:-1 group-title="01. Bangla News",Channel 24
+https://bozztv.com/rongo/rongo-Channel24HD/index.m3u8
+#EXTINF:-1 group-title="01. Bangla News",DBC News
+http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
+#EXTINF:-1 group-title="01. Bangla News",Independent TV
+https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8
+#EXTINF:-1 group-title="01. Bangla News",News18 Bangla
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="01. Bangla News",TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="01. Bangla News",ABP Ananda
+https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_ananda/master.m3u8
+#EXTINF:-1 group-title="01. Bangla News",Republic Bangla
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla News",Ekattor HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla News",Channel 24 HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla News",ATN News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla News",News 24 HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla News",DBC News HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla News",Independent TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla News",Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla News",Al Jazeera
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla News",CNN
-https://bldcmprod-cdn.toffeelive.com/cdn/live/cnn/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla News",BBC News
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla News",DW News
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla News",Al Jazeera English
-https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla News",NHK World
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla News",TRT World
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla News",WION
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-
-#=== BANGLA ENTERTAINMENT ===
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla Entertainment",Maasranga TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla Entertainment",Deepto TV HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla Entertainment",Channel I HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla Entertainment",Channel 9 HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla Entertainment",NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla Entertainment",Bangla Vision
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla Entertainment",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla Entertainment",RTV
+#=== 02. BANGLA ENTERTAINMENT ===
+#EXTINF:-1 group-title="02. Bangla Entertainment",BTV National
+https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
+#EXTINF:-1 group-title="02. Bangla Entertainment",BTV World
+https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8
+#EXTINF:-1 group-title="02. Bangla Entertainment",RTV
 https://bozztv.com/rongo/rongo-RTV/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla Entertainment",SA TV
-https://tvsen6.aynaott.com/satv/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla Entertainment",Boishakhi TV
-https://tvsen6.aynaott.com/boishakhitv/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla Entertainment",ATN Bangla
-https://tvsen5.aynaott.com/atnbangla/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla Entertainment",Asian TV
-https://tvsen6.aynaott.com/asiantv/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla Entertainment",Desh TV
-https://tvsen6.aynaott.com/deshtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla Entertainment",Duronto TV
-https://tvsen5.aynaott.com/durontotv/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla Entertainment",Ekushey TV
-https://tvsen6.aynaott.com/etv/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla Entertainment",MY TV
-https://mytvbangla.com/0.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla Entertainment",Mohona TV
-https://tvsen6.aynaott.com/mohonatv/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla Entertainment",BTV World
-https://tvsen6.aynaott.com/btv_world/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla Entertainment",Sangsad TV
-https://tvsen6.aynaott.com/sangsad_tv/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla Entertainment",Jalsha Movies
-https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-
-#=== INDIAN BANGLA ===
-
-#EXTINF:-1 tvg-logo="" group-title="Indian Bangla",Star Jalsha HD
-https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Indian Bangla",Star Jalsha Movies
-https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Indian Bangla",Zee Bangla
-https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Indian Bangla",Zee Bangla Cinema
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Indian Bangla",Colors Bangla HD
-https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Indian Bangla",Ruposhi Bangla
-https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Indian Bangla",Tara Bangla
-https://edge01.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Indian Bangla",Sony Aath
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Indian Bangla",DD Bangla
-https://cdn-4.pishow.tv/live/37/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Indian Bangla",Enterr 10 Bangla
+#EXTINF:-1 group-title="02. Bangla Entertainment",Desh TV
+https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
+#EXTINF:-1 group-title="02. Bangla Entertainment",Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 group-title="02. Bangla Entertainment",Sangsad TV
+https://bozztv.com/rongo/rongo-SangsadTV/index.m3u8
+#EXTINF:-1 group-title="02. Bangla Entertainment",Mohona TV
+https://bozztv.com/rongo/rongo-MohonaTV/index.m3u8
+#EXTINF:-1 group-title="02. Bangla Entertainment",Madani Channel Bangla
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1 group-title="02. Bangla Entertainment",Enterr 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Indian Bangla",Sangeet Bangla
+#EXTINF:-1 group-title="02. Bangla Entertainment",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Indian Bangla",Gaan Bangla
-https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+#=== 03. SPORTS (PUBLIC SOURCES) ===
+#EXTINF:-1 group-title="03. Sports",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 group-title="03. Sports",Sports Connect
+https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8
+#EXTINF:-1 group-title="03. Sports",Sports First TV
+https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8?ads.vf=IqoHUzAjl6S
+#EXTINF:-1 group-title="03. Sports",SportsGrid
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportsgrid/master.m3u8?ads.vf=8ukz5gCI8vu
+#EXTINF:-1 group-title="03. Sports",Horizon Sports
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8?ads.vf=A5pc7nNS254
+#EXTINF:-1 group-title="03. Sports",FloRacing 24/7
+https://amg02278-amg02278c1-distrotv-us-7534.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-distrotvus/playlist.m3u8
+#EXTINF:-1 group-title="03. Sports",Golf Network
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/golf-network/manifest.m3u8?ads.vf=JfEbVnzdK_W
+#EXTINF:-1 group-title="03. Sports",MotorRacing
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8?ads.vf=CBI_YqvusWO
+#EXTINF:-1 group-title="03. Sports",Powersports World
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/powersports-world/pwrsp.m3u8?ads.vf=6Tj0ccfKg3S
+#EXTINF:-1 group-title="03. Sports",beIN SPORTS Xtra
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra/playlist.m3u8?ads.vf=kBQplLldqQO
+#EXTINF:-1 group-title="03. Sports",beIN SPORTS Xtra en Espanol
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8?ads.vf=SylQdpcCl2O
+#EXTINF:-1 group-title="03. Sports",CBS Sports HQ
+https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+#EXTINF:-1 group-title="03. Sports",FOX Sports
+https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
+#EXTINF:-1 group-title="03. Sports",NBC Sports NOW
+https://jmp2.uk/plu-6549306c83595c000815a696.m3u8
+#EXTINF:-1 group-title="03. Sports",NFL Channel
+https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
+#EXTINF:-1 group-title="03. Sports",MLB
+https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
+#EXTINF:-1 group-title="03. Sports",UFC
+https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
+#EXTINF:-1 group-title="03. Sports",PFL MMA
+https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8
+#EXTINF:-1 group-title="03. Sports",Bellator MMA
+https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
+#EXTINF:-1 group-title="03. Sports",TennisChannel 2
+https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
+#EXTINF:-1 group-title="03. Sports",Women's Sports Network
+https://jmp2.uk/plu-686d8dd294a028da3ac59566.m3u8
+#EXTINF:-1 group-title="03. Sports",TNA Wrestling
+https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8
 
-#=== HINDI ENTERTAINMENT ===
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment",Star Plus HD
-https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment",Star Bharat
-https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment",Colors HD
-https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment",Zee TV HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment",Sony Entertainment Television HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyentertainmnt_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment",Sony SAB HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment",&TV HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment",Zee Bollywood
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bollywood/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment",Zee Anmol
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_anmol/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment",Dangal TV
-https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment",Dangal 2
-https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment",HUM TV
-https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment",HUM Masala
-https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_masala/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment",HUM Sitaray
-https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_sitaray/playlist.m3u8
-
-#=== SPORTS ===
-
-#EXTINF:-1 tvg-logo="" group-title="Sports",T Sports HD
-https://tvsen7.aynaott.com/tsports-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sony Ten Sports 1 HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sony Ten Sports 2 HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sony Ten Sports 5 HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sony Ten Cricket
-https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sports",Eurosport HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sports",DD Sports
-https://edge01.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sports",PTV Sports
-https://tvsen5.aynaott.com/PtvSports/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sports",Willow HD
-https://tvsen5.aynaott.com/willowhd/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sports",A Sports HD
-https://tvsen6.aynaott.com/asports/index.m3u8
-
-#=== MUSIC ===
-
-#EXTINF:-1 tvg-logo="" group-title="Music",MTV India
-https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Music",B4U Music
-https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_music/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Music",Zing
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zing_sd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Music",Zoom
-https://edge01.iptv.digijadoo.net/live/zoom/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Music",9XM
-https://9xjio.wiseplayout.com/9XM/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Music",9X Tashan
-https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Music",9X Jalwa
-https://b.jsrdn.com/strm/channels/9xjalwa/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Music",Sangeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Music",Party Universe
-https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
-
-#=== KIDS & CARTOON ===
-
-#EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network
-https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network HD+
-https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Kids",Nick
-https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Kids",Nick Jr
-https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Kids",Nick Sonic
-https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Kids",POGO
-https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Kids",Sony YAY
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Kids",Discovery Kids
-https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Kids",Disney Junior
-https://tvsen7.aynaott.com/disneyjr/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Kids",BuddyStar HD
-https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Kids",Funny Junior HD
-https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Kids",Joy
-https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Kids",Smarty
-https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
+#=== 04. KIDS & CARTOON (PUBLIC SOURCES) ===
+#EXTINF:-1 group-title="04. Kids & Cartoon",Disney International HD
+http://149.71.34.166:8002/play/a01p/index.m3u8
+#EXTINF:-1 group-title="04. Kids & Cartoon",Disney Junior
+http://149.71.34.166:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="04. Kids & Cartoon",Hungama TV
+http://149.71.34.166:8000/play/a075/index.m3u8
+#EXTINF:-1 group-title="04. Kids & Cartoon",Nick HD+
+http://103.72.101.252:8080/live/1226.m3u8
+#EXTINF:-1 group-title="04. Kids & Cartoon",Nickelodeon
+http://149.71.34.166:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="04. Kids & Cartoon",ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 group-title="04. Kids & Cartoon",Cartoon Classics
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=yqk-v2F2pNi
+#EXTINF:-1 group-title="04. Kids & Cartoon",ToonOvation
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/M43FCP9IGELUIOH4IAVQ/hls3/now,-1m/m.m3u8?ads.vf=dkc6PGrkc0i
+#EXTINF:-1 group-title="04. Kids & Cartoon",90's Kids
+https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
+#EXTINF:-1 group-title="04. Kids & Cartoon",90s Kids TV 2
+https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
+#EXTINF:-1 group-title="04. Kids & Cartoon",Baby Shark TV
+https://jmp2.uk/plu-60faffc3fbbc120007fc4376.m3u8
+#EXTINF:-1 group-title="04. Kids & Cartoon",Forever Kids
+https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
+#EXTINF:-1 group-title="04. Kids & Cartoon",Kartoon Channel!
+https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
+#EXTINF:-1 group-title="04. Kids & Cartoon",Kids Movie Club
+https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
+#EXTINF:-1 group-title="04. Kids & Cartoon",LEGO Kids TV
+https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
+#EXTINF:-1 group-title="04. Kids & Cartoon",Nick Jr. Pluto TV
+https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
+#EXTINF:-1 group-title="04. Kids & Cartoon",Nickelodeon Pluto TV
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+#EXTINF:-1 group-title="04. Kids & Cartoon",Pluto TV Anime
+https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
+#EXTINF:-1 group-title="04. Kids & Cartoon",Pluto TV Anime Movies
+https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
+#EXTINF:-1 group-title="04. Kids & Cartoon",ANIME x HIDIVE
+https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
